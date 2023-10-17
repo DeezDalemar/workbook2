@@ -1,2 +1,6 @@
-var message = "Seek Help";
-console.log(message);
+var customerId;
+var customerFirst, customerMid, customerLast;
+var customerGender;
+var dateOfBirth;
+var driversLicense;
+var autoPolicyNumber;
